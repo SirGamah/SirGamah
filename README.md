@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SirGamah
-- 👀 I’m interested in Cyber Security and Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any project in Cyber Security, Data Science or Web Development.
+- 👀 I’m interested in the application of AI in areas such as healthcare, climate change, cybersecurity and finance.
+- 🌱 I’m a prospective postgraduate student
+- 💞️ I’m looking to collaborate on any project in open source projects.
 - 📫 How to reach me: gamahrichard5@gmail.com
 
 <!---
